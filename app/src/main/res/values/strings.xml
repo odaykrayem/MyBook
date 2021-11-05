@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="bookmarked">bookmarked</string>
+    <string name="home">night</string>
+    <string name="shares">share</string>
+    <string name="screenshot">take screenshot</string>
+
+</resources>
