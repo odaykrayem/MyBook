@@ -1,6 +1,6 @@
 # MyBook
 PDF viewer android java app:
-- Fetch all pdf files in the device's internal storage and add them in the recycling
+- Fetch all pdf files in the device's internal storage and add them to recyclerView.
 - View pdf,
 - switch to reading night mode,
 - take screenshot of a page
